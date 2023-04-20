@@ -52,7 +52,7 @@ public class lab6A {
             System.out.println("endNo cannot be less than 0");
             return;
         }
-        
+         
         if (endNo > 9) {
             System.out.println("endNo cannot be greater than 9");
             return;
