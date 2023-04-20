@@ -7,6 +7,7 @@ public class lab6A {
         int startNo = input.nextInt();
         System.out.print("Enter end number: ");
         int endNo = input.nextInt();
+        
 
         if (startNo < 0) {
             System.out.println("startNo cannot be less than 0");
